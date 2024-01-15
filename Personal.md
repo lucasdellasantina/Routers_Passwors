@@ -1,7 +1,7 @@
 | IP de Acceso   | Modelo                    | Usuario      | Contraseña |
 |----------------|---------------------------|--------------|------------|
-| 192.168.0.1    | KAON CG3000               | custadmtn    | 3000       |
-| 192.168.0.1    | TECHNICOLOR CGA4233       | custadmtn    | cga4233    |
+| 192.168.0.1    | KAON CG3000               | custadmin    | 3000       |
+| 192.168.0.1    | TECHNICOLOR CGA4233       | custadmin    | cga4233    |
 | 192.168.0.1    | SAGEMCOM FCST 3890        | custadmin    | f4st3890   |
 | 192.168.0.1    | SAGEMCOM FCST 3686        | admtn        | f4st3686   |
 | 192.168.0.1    | SAGEMCOM FCST 3284        | admin        | f4st3284   |
