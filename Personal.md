@@ -19,4 +19,6 @@
 | 192.168.0.1    | Thomson DCW72S            | admin        | No requiere |
 | 192.168.0.1    | Thomson DCW77S            | admin        | No requiere |
 | 192.168.0.1    | ARRIS WTM652A e-MTA       | No requiere  | No requiere |
+
 | 192.168.0.1    | asco DPC3825              | admin        | Cisco      |
+|  http://192.168.1.1/admin.html    | asco DPC3825              | admin        | CalVxePV1!     1 por n     |
